@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/AkhilKotagiri/AkhilKotagiri/issues/1#issue-694001075"  />
+  <img src="https://github.com/AkhilKotagiri/AkhilKotagiri/blob/master/giphy.gif"  />
   <br>
   <br>
   <br>
