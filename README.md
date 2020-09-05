@@ -3,7 +3,7 @@
   <br>
   <br>
   <br>
-  <samp>Hello there. I'm <a href="https://AkhilKotagiri.me">Akhil Kotagiri</a>.<br> I'm a sophomore in Computer Science at Lovely Professional University, India .<br><br>#python </samp>
+  <samp>Hello there. I'm <a href="AkhilKotagiri">Akhil Kotagiri</a>.<br> I'm a sophomore in Computer Science at Lovely Professional University, India .<br><br>#python </samp>
   <br>
   <br>
   <br>
